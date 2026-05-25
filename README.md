@@ -4,7 +4,7 @@ Estudante de **Engenharia da Computação** no [INATEL](https://inatel.br), com 
 
 ---
 
-## Sobre mim
+# Sobre mim
 
 - 🎓 Engenharia da Computação — INATEL (conclusão: Dez/2026)
 - 🔬 Pesquisador no **eHealth Innovation Center** — desenvolvendo robô antibactericida para esterilização hospitalar com LiDAR, Raspberry Pi 4 e ESP32
@@ -15,7 +15,7 @@ Estudante de **Engenharia da Computação** no [INATEL](https://inatel.br), com 
 
 ---
 
-## Tecnologias e Ferramentas
+# Tecnologias e Ferramentas
 
 **Linguagens**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -41,7 +41,7 @@ Estudante de **Engenharia da Computação** no [INATEL](https://inatel.br), com 
 
 ---
 
-## Projetos em destaque
+# Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -52,7 +52,7 @@ Estudante de **Engenharia da Computação** no [INATEL](https://inatel.br), com 
 
 ---
 
-## 📈 Áreas que quero evoluir
+# Áreas que quero evoluir
 
 - Inteligência Artificial e Machine Learning aplicados
 - Arquitetura de microsserviços e sistemas distribuídos
@@ -60,7 +60,7 @@ Estudante de **Engenharia da Computação** no [INATEL](https://inatel.br), com 
 
 ---
 
-## Onde me encontrar
+# Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermefeliperibeiro)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guilhermefribeiro41@gmail.com)
